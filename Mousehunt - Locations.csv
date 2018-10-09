@@ -1,0 +1,59 @@
+Location,Region,Minimum Title,Travel Requirements,Lose Gold,Lose Points,Lose Cheese
+Meadow,Gnawnia,Novice,None,No,No,No
+Town of Gnawnia,Gnawnia,Recruit,None,No,No,No
+Windmill,Gnawnia,Apprentice,None,No,No,No
+Harbour,Gnawnia,Initiate,None,Yes,Yes,Yes
+Mountain,Gnawnia,Journeyman,None,Yes,Yes,Yes
+Slushy Shoreline,Gnawnia,Lord/Lady,Icebreaker License,No,No,No
+King's Arms,Valour,Apprentice,None,No,No,No
+Tournament Hall,Valour,Apprentice,None,No,No,No
+King's Gauntlet,Valour,Hero,King's Gauntlet Floorplan,Yes,Yes,No
+Calm Clearing,Whisker Woods,Journeyman,Calm Clearing Map Piece,No,No,No
+Great Gnarled Tree,Whisker Woods,Master,Great Gnarled Tree Map Piece,No,No,Yes
+Lagoon,Whisker Woods,Grandmaster,Map of the Lagoon,Yes,Yes,Yes
+Laboratory,Burroughs,Master,Laboratory Map Piece,Yes,Yes,Yes
+Town of Digby,Burroughs,Master,Key to the Town of Digby,No,No,No
+Mousoleum,Burroughs,Master,Tattered Mousoleum Map,Yes,Yes,Yes
+Bazaar,Burroughs,Grandmaster,Ticket to the Burroughs Bazaar,Yes,Yes,Yes
+Toxic Spill,Burroughs,Hero,Laboratory Map Piece,Yes,Yes,Yes
+Training Grounds,Furoma,Grandmaster,Shredded Furoma Map Piece,No,No,Yes
+Dojo,Furoma,Grandmaster,Stitched Furoma Map Piece,Yes,Yes,Yes
+Meditation Room,Furoma,Grandmaster,Stitched Furoma Map Piece,Yes,Yes,No
+Pinnacle Chamber,Furoma,Grandmaster,Stitched Furoma Map Piece,Yes,Yes,No
+Catacombs,Bristle Woods,Legendary,Repaired Mousoleum Map Piece,Yes,Yes,Yes
+Forbidden Grove,Bristle Woods,Legendary,Keeper's Candle,Yes,Yes,Yes
+Acolyte Realm,Bristle Woods,Legendary,Keeper's Candle,Yes,Yes,Yes
+Cape Clawed,Tribal Isles,Legendary,Ocean Navigation Kit,No,No,No
+Elub Shore,Tribal Isles,Legendary,Ocean Navigation Kit,Yes,Yes,Yes
+Nerg Plains,Tribal Isles,Legendary,Ocean Navigation Kit,Yes,Yes,Yes
+Derr Dunes,Tribal Isles,Legendary,Ocean Navigation Kit,Yes,Yes,Yes
+Jungle of Dread,Tribal Isles,Hero,Ocean Navigation Kit,Yes,Yes,No
+Dracano,Tribal Isles,Knight,Ocean Navigation Kit,Yes,Yes,No
+Balack's Cove,Tribal Isles,Knight,Balack's Lantern,Yes,Yes,No
+Claw Shot City,Varmint Valley,Lord/Lady,Calm Clearing Map Piece,No,No,No
+Gnawnian Express Station,Varmint Valley,Lord/Lady,Calm Clearing Map Piece,No,No,No
+Fort Rox,Varmint Valley,Baron/Baroness,Fort Rox Battle Summons,Yes,Yes,Yes
+S.S. Huntington III,Rodentia,Legendary,S.S. Huntington III,Yes,Yes,Yes
+Iceberg,Rodentia,Lord/Lady,Icebreaker License,Yes,Yes,Yes
+Seasonal Garden,Rodentia,Lord/Lady,Zugzwang's Scarf,Yes,Yes,Yes
+Zugzwang's Tower,Rodentia,Lord/Lady,Zugzwang's Tower Key,Yes,Yes,Yes
+Crystal Library,Rodentia,Lord/Lady,Crystal Library Card,Yes,Yes,Yes
+Sunken City,Rodentia,Count/Countess,Sunken Souvenir,Yes,Yes,Yes
+Fiery Warpath,Sandtail Desert,Baron/Baroness,Sandtail Call to Arms,Yes,Yes,Yes
+Muridae Market,Sandtail Desert,Baron/Baroness,1 Warpath Victory,Yes,No,Yes
+Living Garden,Sandtail Desert,Baron/Baroness,Living Garden Key,Yes,Yes,Yes
+Twisted Garden,Sandtail Desert,Baron/Baroness,Living Garden Key,Yes,Yes,Yes
+,Sandtail Desert,,Twisted World,,,
+Lost City,Sandtail Desert,Baron/Baroness,Living Garden Key,Yes,Yes,Yes
+Cursed City,Sandtail Desert,Baron/Baroness,Living Garden Key,Yes,Yes,Yes
+,Sandtail Desert,,Twisted World,,,
+Sand Dunes,Sandtail Desert,Baron/Baroness,Living Garden Key,Yes,Yes,Yes
+Sand Crypts,Sandtail Desert,Baron/Baroness,"Living Garden Key
+Twisted World",Yes,Yes,Yes
+Fungal Cavern,Hollow Heights,Duke/Duchess,Fungal Cavern Map Piece,Yes,Yes,Yes
+Labyrinth,Hollow Heights,Duke/Duchess,Labyrinth Key,Yes,Yes,Yes
+Zokor,Hollow Heights,Duke/Duchess,Labyrinth Key,Yes,Yes,Yes
+Gnawnia Rift,Rift Plane,Count/Countess,Rift Detector,Yes,Yes,Yes
+Burroughs Rift,Rift Plane,Duke/Duchess,Rift Detector,Yes,Yes,Yes
+Whisker Woods Rift,Rift Plane,Duke/Duchess,Rift Detector,Yes,Yes,Yes
+Furoma Rift,Rift Plane,Grand Duke/Grand Duchess,Rift Detector,Yes,Yes,Yes
