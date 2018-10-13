@@ -15,7 +15,7 @@ DB = Sequel.connect('postgres://nsuguryurduito:fd48d751a78162d4f28c898d170a05469
 puts 'importing rodents...'
 
 # Read the CSV file for mice
-mice_csv = File.join(File.dirname(__FILE__), '/mice.csv')
+mice_csv = File.join(File.dirname(__FILE__), '/Mousehunt - Mice.csv')
 
 # The table name in postgres
 rodents_table = DB[:rodents]
